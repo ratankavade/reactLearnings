@@ -1,0 +1,8 @@
+.overviewCard{
+    max-width: 30rem;
+    position: absolute;
+    top: 470px;
+    left: 32%;
+    text-align: center;
+    box-shadow: 5px 5px 15px #000;
+}

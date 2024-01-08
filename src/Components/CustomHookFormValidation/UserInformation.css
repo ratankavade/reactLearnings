@@ -1,0 +1,15 @@
+.userInformationForm label{
+    color: #fff;
+}
+.user_list{
+    list-style-type: none;
+    padding: 0;
+}
+.user_list li{
+    padding: 10px;
+    background-color: gray;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 15px;
+}

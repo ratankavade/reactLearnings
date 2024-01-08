@@ -1,0 +1,18 @@
+.meal_list_items{
+    background-color: #fff;
+    list-style-type: none;
+    border-radius: 15px;
+}
+
+.meal_list_items li{
+    padding: 15px;
+    border-bottom: 2px solid maroon;
+}
+
+li:last-child{
+    border-bottom: 0;
+}
+
+.items_price{
+    color: maroon;
+}

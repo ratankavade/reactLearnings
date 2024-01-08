@@ -1,0 +1,9 @@
+.user-list-items{
+    background-color: darkgray;
+    list-style-type: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 14px;
+    color: #000;
+    font-weight: 600;
+}

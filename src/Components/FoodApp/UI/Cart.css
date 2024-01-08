@@ -1,0 +1,14 @@
+.foodApp_cart{
+    float: right;
+    margin-top: 5px;
+    background-color: #4a0c0cd1;
+    padding: 10px;
+    border-radius: 25px;
+    color: #fff;
+}
+
+.bg-manual{
+    --bs-bg-opacity: 1;
+    background-color: #b70303;
+    border-radius: 10px;
+}
